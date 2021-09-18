@@ -1,2 +1,2 @@
 # Kavach-
-Device to Combat Covid- 19
+IoT Based Device to Combat Covid- 19
